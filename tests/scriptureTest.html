@@ -10,7 +10,7 @@
     <div id="response"></div>
     <script>
         document.getElementById('sendRequest').addEventListener('click', () => {
-            fetch('http://your-node-server-url/api-endpoint')
+            fetch('https://scripture-api.onrender.com/')
                 .then(response => response.text())
                 .then(data => {
                     document.getElementById('response').innerHTML = data;
