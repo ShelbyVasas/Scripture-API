@@ -4,7 +4,7 @@ This software is a REST API that utilizes the node.js framework to access script
 
 This software was written to create easy access to a variety of scripture data. It currently only includes books found in The Book of Mormon: Another Testament of Jesus Christ. It allows the user to recieve a scriptur at random on each server load or a random scripture filtered by the book chosen by the user.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/otAKtYXd6BM)
 
 # Development Environment
 
